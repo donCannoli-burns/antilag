@@ -453,3 +453,7 @@ Current script version:
 ```
 2.0.1
 ```
+
+## License
+
+Released under the [MIT License](LICENSE).
